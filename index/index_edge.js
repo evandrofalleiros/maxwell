@@ -870,6 +870,26 @@
                             '-85.13%'
                         ],
                         [
+                            "eid20",
+                            "left",
+                            0,
+                            903,
+                            "easeInOutQuart",
+                            "${bloco-k}",
+                            '-76.22%',
+                            '68.73%'
+                        ],
+                        [
+                            "eid58",
+                            "left",
+                            1004,
+                            903,
+                            "easeInOutQuart",
+                            "${bloco-k}",
+                            '68.73%',
+                            '-76.22%'
+                        ],
+                        [
                             "eid162",
                             "height",
                             1907,
@@ -890,34 +910,24 @@
                             '137%'
                         ],
                         [
-                            "eid26",
-                            "left",
-                            0,
-                            803,
-                            "easeInOutQuart",
-                            "${bloco-f}",
-                            '-120.58%',
-                            '24.36%'
-                        ],
-                        [
-                            "eid67",
+                            "eid103",
                             "left",
                             1000,
-                            803,
+                            846,
                             "easeInOutQuart",
-                            "${bloco-f}",
-                            '24.36%',
-                            '-120.58%'
+                            "${apt-03}",
+                            '-538px',
+                            '292px'
                         ],
                         [
-                            "eid197",
+                            "eid178",
                             "left",
                             2000,
-                            1000,
+                            846,
                             "easeInOutQuart",
-                            "${ramal}",
-                            '-649px',
-                            '99px'
+                            "${apt-03}",
+                            '292px',
+                            '-538px'
                         ],
                         [
                             "eid151",
@@ -960,56 +970,6 @@
                             '-657px'
                         ],
                         [
-                            "eid103",
-                            "left",
-                            1000,
-                            846,
-                            "easeInOutQuart",
-                            "${apt-03}",
-                            '-538px',
-                            '292px'
-                        ],
-                        [
-                            "eid178",
-                            "left",
-                            2000,
-                            846,
-                            "easeInOutQuart",
-                            "${apt-03}",
-                            '292px',
-                            '-538px'
-                        ],
-                        [
-                            "eid191",
-                            "left",
-                            2000,
-                            907,
-                            "easeInOutQuart",
-                            "${titulo-2Copy}",
-                            '-753px',
-                            '97px'
-                        ],
-                        [
-                            "eid146",
-                            "width",
-                            1907,
-                            0,
-                            "easeInOutQuart",
-                            "${titulo-2}",
-                            '398px',
-                            '398px'
-                        ],
-                        [
-                            "eid167",
-                            "width",
-                            2000,
-                            0,
-                            "easeInOutQuart",
-                            "${titulo-2}",
-                            '398px',
-                            '398px'
-                        ],
-                        [
                             "eid147",
                             "font-size",
                             1907,
@@ -1038,26 +998,6 @@
                             "${Stage}",
                             '550px',
                             '550px'
-                        ],
-                        [
-                            "eid75",
-                            "left",
-                            1000,
-                            907,
-                            "easeInOutQuart",
-                            "${titulo-2}",
-                            '-837px',
-                            '97px'
-                        ],
-                        [
-                            "eid166",
-                            "left",
-                            2000,
-                            907,
-                            "easeInOutQuart",
-                            "${titulo-2}",
-                            '97px',
-                            '-837px'
                         ],
                         [
                             "eid22",
@@ -1118,26 +1058,6 @@
                             "${text-bloco}",
                             '-35%',
                             '1.81%'
-                        ],
-                        [
-                            "eid163",
-                            "width",
-                            1907,
-                            0,
-                            "easeInOutQuart",
-                            "${text-bloco}",
-                            '110.93%',
-                            '110.93%'
-                        ],
-                        [
-                            "eid169",
-                            "width",
-                            2000,
-                            0,
-                            "easeInOutQuart",
-                            "${text-bloco}",
-                            '110.93%',
-                            '110.93%'
                         ],
                         [
                             "eid21",
@@ -1230,6 +1150,46 @@
                             '128px'
                         ],
                         [
+                            "eid28",
+                            "left",
+                            0,
+                            846,
+                            "easeInOutQuart",
+                            "${bloco-c}",
+                            '-128.95%',
+                            '16%'
+                        ],
+                        [
+                            "eid61",
+                            "left",
+                            1015,
+                            846,
+                            "easeInOutQuart",
+                            "${bloco-c}",
+                            '16%',
+                            '-128.95%'
+                        ],
+                        [
+                            "eid101",
+                            "top",
+                            1000,
+                            803,
+                            "easeInOutQuart",
+                            "${apt-02}",
+                            '128px',
+                            '131px'
+                        ],
+                        [
+                            "eid194",
+                            "top",
+                            2000,
+                            803,
+                            "easeInOutQuart",
+                            "${apt-02}",
+                            '131px',
+                            '128px'
+                        ],
+                        [
                             "eid117",
                             "top",
                             1000,
@@ -1270,24 +1230,24 @@
                             '-317px'
                         ],
                         [
-                            "eid101",
-                            "top",
+                            "eid75",
+                            "left",
                             1000,
-                            803,
+                            907,
                             "easeInOutQuart",
-                            "${apt-02}",
-                            '128px',
-                            '131px'
+                            "${titulo-2}",
+                            '-837px',
+                            '97px'
                         ],
                         [
-                            "eid194",
-                            "top",
+                            "eid166",
+                            "left",
                             2000,
-                            803,
+                            907,
                             "easeInOutQuart",
-                            "${apt-02}",
-                            '131px',
-                            '128px'
+                            "${titulo-2}",
+                            '97px',
+                            '-837px'
                         ],
                         [
                             "eid23",
@@ -1308,6 +1268,26 @@
                             "${bloco-e}",
                             '16%',
                             '-128.95%'
+                        ],
+                        [
+                            "eid24",
+                            "left",
+                            0,
+                            846,
+                            "easeInOutQuart",
+                            "${bloco-m}",
+                            '-76.22%',
+                            '68.73%'
+                        ],
+                        [
+                            "eid56",
+                            "left",
+                            1005,
+                            846,
+                            "easeInOutQuart",
+                            "${bloco-m}",
+                            '68.73%',
+                            '-76.22%'
                         ],
                         [
                             "eid123",
@@ -1360,24 +1340,14 @@
                             '-68.22%'
                         ],
                         [
-                            "eid34",
-                            "left",
+                            "eid73",
+                            "background-color",
                             0,
-                            655,
-                            "easeInOutQuart",
-                            "${titulo-1}",
-                            '-886px',
-                            '0px'
-                        ],
-                        [
-                            "eid72",
-                            "left",
-                            1000,
-                            655,
-                            "easeInOutQuart",
-                            "${titulo-1}",
-                            '0px',
-                            '-886px'
+                            0,
+                            "linear",
+                            "${Stage}",
+                            'rgba(255,255,255,1)',
+                            'rgba(255,255,255,1)'
                         ],
                         [
                             "eid95",
@@ -1400,24 +1370,24 @@
                             '-775px'
                         ],
                         [
-                            "eid30",
-                            "left",
+                            "eid146",
+                            "width",
+                            1907,
                             0,
-                            803,
                             "easeInOutQuart",
-                            "${bloco-j}",
-                            '-76.22%',
-                            '68.73%'
+                            "${titulo-2}",
+                            '398px',
+                            '398px'
                         ],
                         [
-                            "eid57",
-                            "left",
-                            1000,
-                            803,
+                            "eid167",
+                            "width",
+                            2000,
+                            0,
                             "easeInOutQuart",
-                            "${bloco-j}",
-                            '68.73%',
-                            '-76.22%'
+                            "${titulo-2}",
+                            '398px',
+                            '398px'
                         ],
                         [
                             "eid105",
@@ -1440,34 +1410,64 @@
                             '128px'
                         ],
                         [
-                            "eid20",
+                            "eid30",
                             "left",
                             0,
-                            903,
+                            803,
                             "easeInOutQuart",
-                            "${bloco-k}",
+                            "${bloco-j}",
                             '-76.22%',
                             '68.73%'
                         ],
                         [
-                            "eid58",
+                            "eid57",
                             "left",
-                            1004,
-                            903,
+                            1000,
+                            803,
                             "easeInOutQuart",
-                            "${bloco-k}",
+                            "${bloco-j}",
                             '68.73%',
                             '-76.22%'
                         ],
                         [
-                            "eid73",
-                            "background-color",
+                            "eid163",
+                            "width",
+                            1907,
                             0,
+                            "easeInOutQuart",
+                            "${text-bloco}",
+                            '110.93%',
+                            '110.93%'
+                        ],
+                        [
+                            "eid169",
+                            "width",
+                            2000,
                             0,
-                            "linear",
-                            "${Stage}",
-                            'rgba(255,255,255,1)',
-                            'rgba(255,255,255,1)'
+                            "easeInOutQuart",
+                            "${text-bloco}",
+                            '110.93%',
+                            '110.93%'
+                        ],
+                        [
+                            "eid34",
+                            "left",
+                            0,
+                            655,
+                            "easeInOutQuart",
+                            "${titulo-1}",
+                            '-886px',
+                            '0px'
+                        ],
+                        [
+                            "eid72",
+                            "left",
+                            1000,
+                            655,
+                            "easeInOutQuart",
+                            "${titulo-1}",
+                            '0px',
+                            '-886px'
                         ],
                         [
                             "eid121",
@@ -1490,24 +1490,14 @@
                             '128px'
                         ],
                         [
-                            "eid24",
+                            "eid191",
                             "left",
-                            0,
-                            846,
+                            2000,
+                            907,
                             "easeInOutQuart",
-                            "${bloco-m}",
-                            '-76.22%',
-                            '68.73%'
-                        ],
-                        [
-                            "eid56",
-                            "left",
-                            1005,
-                            846,
-                            "easeInOutQuart",
-                            "${bloco-m}",
-                            '68.73%',
-                            '-76.22%'
+                            "${titulo-2Copy}",
+                            '-753px',
+                            '97px'
                         ],
                         [
                             "eid99",
@@ -1530,24 +1520,34 @@
                             '-657px'
                         ],
                         [
-                            "eid28",
+                            "eid26",
                             "left",
                             0,
-                            846,
+                            803,
                             "easeInOutQuart",
-                            "${bloco-c}",
-                            '-128.95%',
-                            '16%'
+                            "${bloco-f}",
+                            '-120.58%',
+                            '24.36%'
                         ],
                         [
-                            "eid61",
+                            "eid67",
                             "left",
-                            1015,
-                            846,
+                            1000,
+                            803,
                             "easeInOutQuart",
-                            "${bloco-c}",
-                            '16%',
-                            '-128.95%'
+                            "${bloco-f}",
+                            '24.36%',
+                            '-120.58%'
+                        ],
+                        [
+                            "eid197",
+                            "left",
+                            2000,
+                            1000,
+                            "easeInOutQuart",
+                            "${ramal}",
+                            '-649px',
+                            '99px'
                         ]
                     ]
                 }
@@ -1562,10 +1562,10 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
+                            rect: ['38.1%', '0%', '197', '70', 'auto', 'auto'],
                             title: 'bloco-i',
                             id: 'btn_bloco_i',
-                            rect: ['38.1%', '0%', '197', '70', 'auto', 'auto'],
+                            type: 'group',
                             c: [
                             {
                                 rect: ['0px', '0px', '191px', '64px', 'auto', 'auto'],
@@ -1576,11 +1576,11 @@
                                 fill: ['rgba(192,192,192,0.00)']
                             },
                             {
-                                font: ['abel, sans-serif', [24, ''], 'rgba(93,93,93,1.00)', 'normal', 'none', '', 'break-word', 'normal'],
+                                type: 'text',
                                 id: 'Bloco_I',
                                 text: '<p style=\"margin: 0px;\">​Bloco I</p>',
-                                type: 'text',
-                                rect: ['18px', '20px', '135px', '32px', 'auto', 'auto']
+                                rect: ['18px', '20px', '135px', '32px', 'auto', 'auto'],
+                                font: ['abel, sans-serif', [24, ''], 'rgba(93,93,93,1.00)', 'normal', 'none', '', 'break-word', 'normal']
                             }]
                         }
                     ],
